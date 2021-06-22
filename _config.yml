@@ -98,11 +98,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Incoming PhD student @Vanderbilt"
   location         : "Xi'an, China"
-  email            :
+  email            : "lzhaoqing22@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "lzhaoqing22@gmail.com"
+#       url: "lzhaoqing22@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
