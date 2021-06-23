@@ -1,15 +1,13 @@
----
-layout: home
-author_profile: true
----
-<link rel="stylesheet" href="https://chrischoy.github.io/assets/css/main.css">
-aaaaaaadfbfdkbsfdnsknfksjndlksnldsnafndkfndkbvksbkdbvkbvckdsbcvkdsbckdscdk dksn kdsn kd nkdsn kdsn kdsn kdsn kdsn ksdn kdsn ksn kdn dk ndsk nk nksdn dksn sdkn kdsn kdsn kdn kdn k nsn skn ksn skdn ksn ksn sdn sdn sld nsl nsln sln sln dsln slk nsl ns nskl
+I"1<link rel="stylesheet" href="https://chrischoy.github.io/assets/css/main.css" />
 
+<!-- <link rel="stylesheet" href="/assets/css/main.scss">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"> -->
+<p>dadnuiadahdia</p>
 
 <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
     <div class="publication">
         <div class="left"> 
-            <iframe width="700" height="360" src="https://www.youtube.com/embed/B6hby8pgvjY" frameborder="0" allowfullscreen></iframe>
+            <iframe width="700" height="360" src="https://www.youtube.com/embed/B6hby8pgvjY" frameborder="0" allowfullscreen=""></iframe>
         </div>
         <div class="right">
             <h3><a href="https://anyirao.com/projects/ShotType.html">A Unified Framework for Shot Type Classification Based on Subject Centric Lens</a></h3>
@@ -22,9 +20,9 @@ aaaaaaadfbfdkbsfdnsknfksjndlksnldsnafndkfndkbvksbkdbvkbvckdsbcvkdsbckdscdk dksn 
             <a class="author" href="">Dahua Lin</a>
             <p class="venue">EUROPEAN CONFERENCE ON COMPUTER VISION (ECCV), 2020</p>
         </div>
-        <br>
+        <br />
         <div class="left"> 
-            <img src=img/person_search.jpeg width="700">
+            &lt;img src=img/person_search.jpeg width="700"&gt;
         </div>
         <div class="right">
             <h3><a href="http://movienet.site/projects/eccv20onlineperson.html">Online Multi-modal Person Search in Videos</a></h3>
@@ -36,9 +34,9 @@ aaaaaaadfbfdkbsfdnsknfksjndlksnldsnafndkfndkbvksbkdbvkbvckdsbcvkdsbckdscdk dksn 
             <a class="author" href="">Dahua Lin</a>
             <p class="venue">EUROPEAN CONFERENCE ON COMPUTER VISION (ECCV), 2020</p>
         </div>
-        <br>
+        <br />
         <div class="left"> 
-            <iframe width="700" height="360" src="https://www.youtube.com/embed/qNvjaMyYaVI" frameborder="0" allowfullscreen></iframe>
+            <iframe width="700" height="360" src="https://www.youtube.com/embed/qNvjaMyYaVI" frameborder="0" allowfullscreen=""></iframe>
         </div>
         <div class="right">
             <h3><a href="https://arxiv.org/abs/2007.08802">Learn to Propagate Reliably on Noisy Affinity Graphs</a></h3>
@@ -49,9 +47,9 @@ aaaaaaadfbfdkbsfdnsknfksjndlksnldsnafndkfndkbvksbkdbvkbvckdsbcvkdsbckdscdk dksn 
             <a class="author" href="">Dahua Lin</a>
             <p class="venue">EUROPEAN CONFERENCE ON COMPUTER VISION (ECCV), 2020</p>
         </div>
-        <br>
+        <br />
         <div class="left"> 
-            <iframe width="700" height="360" src="https://www.youtube.com/embed/Qo6E_hNn9mc" frameborder="0" allowfullscreen></iframe>
+            <iframe width="700" height="360" src="https://www.youtube.com/embed/Qo6E_hNn9mc" frameborder="0" allowfullscreen=""></iframe>
         </div>
         <div class="right">
             <h3><a href="https://anyirao.com/projects/SceneSeg.html">A Local-to-Global Approach to Multi-modal Movie Scene Segmentation</a></h3>
@@ -62,9 +60,9 @@ aaaaaaadfbfdkbsfdnsknfksjndlksnldsnafndkfndkbvksbkdbvkbvckdsbcvkdsbckdscdk dksn 
             <a class="author" href="http://dahua.me/">Dahua Lin</a>
             <p class="venue">Computer Vision and Pattern Recognition (CVPR), 2020</p>
         </div>
-        <br>
+        <br />
         <div class="left"> 
-            <img src=img/admm.png width="700">
+            &lt;img src=img/admm.png width="700"&gt;
         </div>
         <div class="right">
             <h3><a href="">Exact O(n^2) Hyper-Parameter Optimization for Gaussian Process Regression</a></h3>
@@ -72,13 +70,13 @@ aaaaaaadfbfdkbsfdnsknfksjndlksnldsnafndkfndkbvksbkdbvkbvckdsbcvkdsbckdscdk dksn 
             <a class="author" href="">Yijue Dai</a>,
             <a class="author" href="">Jiawei Zhang</a>,
             <a class="author" href="">Ceyao Zhang</a>, and
-            <a class="author" href="https://scholar.google.com/citations?hl=en&user=4mW1N5oAAAAJ&view_op=list_works&sortby=pubdate">Feng Yin</a>
+            <a class="author" href="https://scholar.google.com/citations?hl=en&amp;user=4mW1N5oAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Feng Yin</a>
             <p class="venue">IEEE International Workshop on MACHINE LEARNING FOR SIGNAL PROCESSING (MLSP), 2020</p>
         </div>
     </div>
 </article>
 
- <details><summary>Click to expand</summary>
+<details><summary>Click to expand</summary>
     <ul> 
     <li> Major Courses
         <ul>
@@ -106,3 +104,5 @@ aaaaaaadfbfdkbsfdnsknfksjndlksnldsnafndkfndkbvksbkdbvkbvckdsbcvkdsbckdscdk dksn 
     </li>
     </ul>
 </details>
+
+:ET

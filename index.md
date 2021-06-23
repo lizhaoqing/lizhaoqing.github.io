@@ -1,10 +1,12 @@
 ---
 layout: home
 author_profile: true
+permalink: /a/
 ---
 <link rel="stylesheet" href="https://chrischoy.github.io/assets/css/main.css">
-aaaaaaadfbfdkbsfdnsknfksjndlksnldsnafndkfndkbvksbkdbvkbvckdsbcvkdsbckdscdk dksn kdsn kd nkdsn kdsn kdsn kdsn kdsn ksdn kdsn ksn kdn dk ndsk nk nksdn dksn sdkn kdsn kdsn kdn kdn k nsn skn ksn skdn ksn ksn sdn sdn sld nsl nsln sln sln dsln slk nsl ns nskl
-
+<!-- <link rel="stylesheet" href="{{ '/assets/css/main.scss' | relative_url }}">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"> -->
+<p>dadnuiadahdia</p>
 
 <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
     <div class="publication">
@@ -106,3 +108,4 @@ aaaaaaadfbfdkbsfdnsknfksjndlksnldsnafndkfndkbvksbkdbvkbvckdsbcvkdsbckdscdk dksn 
     </li>
     </ul>
 </details>
+
