@@ -20,7 +20,7 @@ title                    : "Zhaoqing"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Zhaoqing Li"
-description              : "An amazing website."
+description              : "My website."
 url                      : "https://lizhaoqing.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lizhaoqing/lizhaoqing.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,13 +96,13 @@ analytics:
 author:
   name             : "Zhaoqing Li"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Incoming PhD student @Vanderbilt"
+  bio              : "Incoming PhD student @Vanderbilt University"
   location         : "Xi'an, China"
-  email            : "lzhaoqing22@gmail.com"
+  # email            : "lzhaoqing22@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-#       url: "lzhaoqing22@gmail.com"
+      url: "mailto:lzhaoqing22@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -121,6 +121,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/zhaoqingli/"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "https://zhaoqingli.github.io/Li_CV.pdf"
 
 # Site Footer
 footer:
