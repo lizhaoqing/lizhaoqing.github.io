@@ -57,7 +57,7 @@
   p,
   li {
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-size: 0.75em;
     line-height: 1.5;
   }
 
@@ -159,6 +159,7 @@
 
 .author__name {
   margin: 0;
+  font-size: 1em;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -172,10 +173,11 @@
 
 .author__bio {
   margin: 0;
-
+  font-size: 0.75em;;
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
+    margin-right: 30px;
   }
 }
 
@@ -184,7 +186,7 @@
   display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
-  z-index: 20;
+  z-index: 10;
   cursor: pointer;
 
   li:last-child {
@@ -241,6 +243,7 @@
   border: 1px solid $border-color;
   border-radius: $border-radius;
   background: $background-color;
+  z-index: -1;
   box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
   cursor: default;
 
@@ -308,7 +311,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: 1em;
     text-decoration: none;
 
     &:hover {

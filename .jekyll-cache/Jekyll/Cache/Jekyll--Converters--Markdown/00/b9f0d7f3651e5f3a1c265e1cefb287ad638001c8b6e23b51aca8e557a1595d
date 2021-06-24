@@ -1,16 +1,8 @@
----
-layout: single
-# title: "About Me"
-author_profile: true
-# permalink:
----
+I"'<!-- <link rel="stylesheet" href="https://chrischoy.github.io/assets/css/main.css"> -->
+<!-- <link rel="stylesheet" href="/assets/css/main.scss">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"> -->
 
-
-<!-- <link rel="stylesheet" href="https://chrischoy.github.io/assets/css/main.css"> -->
-<!-- <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}"> -->
-<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"> -->
-
-## About Me
+<!-- # About Me
 <hr>
 I'm an incoming PhD student at [Vanderbilt University](https://www.vanderbilt.edu), [NDS Lab](https://nds-vu.github.io), supervised by of Prof. [Tyler Derr](https://tylersnetwork.github.io). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1015/1351.htm) at Northwestern Polytechnical University, where I also obtained my bacholar's degree. I have broad research interests in machine learning and network science. My current studies focus on clustering algorithms and spreading dynamics on networks. I am also passionate about using developed algorithms to solve practical problems (e.g., suppressing epidemic spreading processes).
 
@@ -99,4 +91,5 @@ I'm an incoming PhD student at [Vanderbilt University](https://www.vanderbilt.ed
 <br>
 <br>
 <br>
-<br>
+<br> -->
+:ET
