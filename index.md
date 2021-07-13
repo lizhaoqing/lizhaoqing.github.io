@@ -1,24 +1,26 @@
 ---
 layout: single
+# classes: wide
 title: "About Me"
 author_profile: true
 last_modified_at: 2021-07-13T10:23:16-04:00
 toc: true
+toc_label: Content
 permalink: /
 ---
 
 
 <!-- # About Me -->
 <!-- <hr> -->
-I'm an incoming PhD student at [Vanderbilt University](https://www.vanderbilt.edu), [NDS Lab](https://nds-vu.github.io), supervised by of Prof. [Tyler Derr](https://tylersnetwork.github.io). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1015/1351.htm) at Northwestern Polytechnical University, where I also obtained my bacholar's degree. I have broad research interests in machine learning and network science. My current studies focus on clustering algorithms and spreading dynamics on networks. I am also passionate about using developed algorithms to solve practical problems (e.g., suppressing epidemic spreading processes).
+I'm an incoming PhD student in the Computer Science at [Vanderbilt University](https://www.vanderbilt.edu), [NDS Lab](https://nds-vu.github.io), supervised by of Prof. [Tyler Derr](https://tylersnetwork.github.io). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1015/1351.htm) at Northwestern Polytechnical University, where I also obtained my bacholar's degree. I have broad research interests in machine learning and network science. My current studies focus on spectral clustering algorithms and spreading dynamics on networks. I am also passionate about using developed algorithms to solve practical problems (e.g., suppressing epidemic spreading processes).
 
 ## News
-- [06/2021](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by *New Journal of Physics*</font>
+- [06/2021](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>New Journal of Physics</i></font>
 - [04/2021](#link){: .btn .btn--info .btn--small} <font size=4>Awarded Dean's Graduate Fellowship of Vanderbilt University.</font>
 - [03/2021](#link){: .btn .btn--info .btn--small} <font size=4>Finish master's degree and was awarded masters' "Outstanding Graduate" of NWPU.</font>
 - [02/2021](#link){: .btn .btn--info .btn--small} <font size=4>Get admitted to the PhD program at Vanderbilt University.</font>
 - [10/2020](#link){: .btn .btn--info .btn--small} <font size=4>Awarded China National Scholarship.</font>
-- [06/2020](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper regarding large graph clustering is accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence* (T-PAMI).</font>
+- [06/2020](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper regarding large graph clustering is accepted by <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (T-PAMI).</font>
 
 
 
@@ -37,8 +39,12 @@ I'm an incoming PhD student at [Vanderbilt University](https://www.vanderbilt.ed
 *Chaos: An Interdisciplinary Journal of Nonlinear Science*, vol. 29, no. 7, p. 073111, 2019 
 {: .notice}
 
-## Other...
-<details><summary>Click to expand</summary>
+## Honors and Awards
+- Dean's Graduate Fellowship, Vanderbilt
+- China National Scholarship (0.2%), China
+- Master's Outstanding Graduate, NWPU
+
+<!-- <details><summary>Click to expand</summary>
 <ul> 
 <li> Major Courses
     <ul>
@@ -65,6 +71,6 @@ I'm an incoming PhD student at [Vanderbilt University](https://www.vanderbilt.ed
     </ul>
 </li>
 </ul>
-</details>
+</details> -->
 
 <br>
