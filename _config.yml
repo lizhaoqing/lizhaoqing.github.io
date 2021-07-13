@@ -94,7 +94,7 @@ analytics:
 
 author:
   name             : "Zhaoqing Li"
-  avatar           : "https://github.com/lizhaoqing/lizhaoqing.github.io/tree/master/assets/images/avatar-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Incoming PhD student @Vanderbilt University"
   location         : "Xi'an, China"
   # email            : "lzhaoqing22@gmail.com"
@@ -122,7 +122,7 @@ author:
       url: "https://www.linkedin.com/in/zhaoqingli/"
     - label: "CV"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/lizhaoqing/lizhaoqing.github.io/tree/master/assets/cv/Li_CV.pdf"
+      url: "/assets/cv/Li_CV.pdf"
 
 # Site Footer
 footer:
