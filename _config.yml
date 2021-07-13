@@ -94,7 +94,7 @@ analytics:
 
 author:
   name             : "Zhaoqing Li"
-  avatar           : "/assets/images/avatar-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/li.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Incoming PhD student @Vanderbilt University"
   location         : "Xi'an, China"
   # email            : "lzhaoqing22@gmail.com"
