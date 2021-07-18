@@ -12,7 +12,7 @@ permalink: /
 
 <!-- # About Me -->
 <!-- <hr> -->
-I'm an incoming PhD student in the Computer Science at [Vanderbilt University](https://www.vanderbilt.edu), [NDS Lab](https://nds-vu.github.io), supervised by of Prof. [Tyler Derr](https://tylersnetwork.github.io). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1015/1351.htm) at Northwestern Polytechnical University, where I also obtained my bacholar's degree. I have broad research interests in machine learning and network science. My current studies focus on spectral clustering algorithms and spreading dynamics on networks. I am also passionate about using developed algorithms to solve practical problems (e.g., suppressing epidemic spreading processes).
+I'm an incoming PhD student in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu), [NDS Lab](https://nds-vu.github.io), supervised by of Prof. [Tyler Derr](https://tylersnetwork.github.io). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1329/1369.htm) at Northwestern Polytechnical University, where I also obtained my bacholar's degree. I have broad research interests in machine learning and network science. My current studies focus on spectral clustering algorithms and spreading dynamics on networks. I am also passionate about using developed algorithms to solve practical problems (e.g., suppressing epidemic spreading processes).
 
 ## News
 - [06/2021](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>New Journal of Physics</i></font>
