@@ -49,7 +49,7 @@ Yi Zhang, Yuying Zhao, **Zhaoqing Li**, Xueqi Cheng, Yu Wang, Olivera Kotevska, 
 *Chaos, Solitons and Fractals*, 2021</span>
 <!-- {: .notice} -->
 - <span style="font-size: 16px; font: bold">[Large graph clustering with simultaneous spectral embedding and discretization](https://ieeexplore.ieee.org/abstract/document/9117190).<br>
- Zhen Wang\*, **Zhaoqing Li**\*, Rong Wang, Feiping Nie, and Xuelong Li
+ Zhen Wang\*, **Zhaoqing Li**\*, Rong Wang, Feiping Nie, and Xuelong Li<br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2020</span>
 <!-- {: .notice} -->
 - <span style="font-size: 16px; font: bold">[Suppression of epidemic spreading process on multiplex networks via active immunization](https://aip.scitation.org/doi/abs/10.1063/1.5093047).<br>
