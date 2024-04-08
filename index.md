@@ -37,13 +37,13 @@ permalink: /
 <!-- {: .notice} -->
 - "[Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switchboard Corpus](https://www.isca-archive.org/interspeech_2023/li23x_interspeech.pdf)", **Zhaoqing Li**, Tianzi Wang, Jiajun Deng, Junhao Xu, Shoukang Hu, Xunying Liu  
 *INTERSPEECH*, 2023 
-{: .notice}
+<!-- {: .notice} -->
 - "[Contagion in simplicial complexes](http://arxiv.org/abs/2107.03411)", **Zhaoqing Li**, Zhenghong Deng, Zhen Han, Karin  Alfaro-Bittner, Baruch Barzel, and Stefano Boccaletti  
 *Chaos, Solitons and Fractals*, 2021
-{: .notice}
+<!-- {: .notice} -->
 - "[Large graph clustering with simultaneous spectral embedding and discretization](https://ieeexplore.ieee.org/abstract/document/9117190)", Zhen Wang\*, **Zhaoqing Li**\*, Rong Wang, Feiping Nie, and Xuelong Li (* co-first authors)  
 *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2020 
-{: .notice}
+<!-- {: .notice} -->
 - "[Suppression of epidemic spreading process on multiplex networks via active immunization](https://aip.scitation.org/doi/abs/10.1063/1.5093047)", **Zhaoqing Li**, Peican Zhu, Dawei Zhao, Zhenghong Deng, and Zhen Wang  
 *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 2019 
 {: .notice}
