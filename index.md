@@ -15,9 +15,9 @@ permalink: /
 <span style="font-size: 20px; font: bold">I am a second-year PhD student at the Chinese University of Hong Kong, supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1329/1369.htm) at Northwestern Polytechnical University, where I also obtained my bachelor's degree. My research interests lie in automatic speech recognition and machine leaning. I am currently focusing on developing lightweight and efficient deep learning systems.</span><br>
 
 #### News
-- [12/2023](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>ICASSP 2024</i></font>
+- [12/2023](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>ICASSP 2024</i>.</font>
 - [07/2023](#link){: .btn .btn--info .btn--small} <font size=4>Passed the PhD Candidacy Examination!</font>
-- [05/2023](#link){: .btn .btn--info .btn--small} <font size=4>One Paper is accepted by <i>INTERSPEECH 2023</i></font>
+- [05/2023](#link){: .btn .btn--info .btn--small} <font size=4>One Paper is accepted by <i>INTERSPEECH 2023</i>.</font>
 - [02/2022](#link){: .btn .btn--info .btn--small} <font size=4>Get admitted to the PhD program at the Chinese University of Hong Kong.</font>
 
 <!-- - [07/2021](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>Chaos, Solitons & Fractals</i></font>
