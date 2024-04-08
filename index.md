@@ -18,7 +18,7 @@ permalink: /
 - [12/2023](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>ICASSP 2024</i>.</font>
 - [07/2023](#link){: .btn .btn--info .btn--small} <font size=4>Passed the PhD Candidacy Examination!</font>
 - [05/2023](#link){: .btn .btn--info .btn--small} <font size=4>One Paper is accepted by <i>INTERSPEECH 2023</i>.</font>
-- [02/2022](#link){: .btn .btn--info .btn--small} <font size=4>Get admitted to the PhD program at the Chinese University of Hong Kong.</font>
+- [02/2022](#link){: .btn .btn--info .btn--small} <font size=4>Get admitted to the PhD program of the Chinese University of Hong Kong.</font>
 
 <!-- - [07/2021](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>Chaos, Solitons & Fractals</i></font>
 - [06/2021](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>New Journal of Physics</i></font>
