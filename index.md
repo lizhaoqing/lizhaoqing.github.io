@@ -7,6 +7,9 @@ last_modified_at: 2021-07-13T10:23:16-04:00
 # toc: true
 # toc_label: Content
 permalink: /
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 
