@@ -124,7 +124,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "/assets/cv/Li_CV.pdf"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=93ihJjYAAAAJ&hl=en"
 
 # Site Footer
