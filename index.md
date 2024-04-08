@@ -35,11 +35,11 @@ permalink: /
 
 <b><font size=4>2023</font></b>
 - <span style="font-size: 16px; font: bold">[A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/pdf/2308.16375.pdf).<br> 
-Yi Zhang, Yuying Zhao, **Zhaoqing Li**, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S Yu, Tyler Derr  
-*Preprint*, 2023</span>
+Yi Zhang, Yuying Zhao, **Zhaoqing Li**, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S Yu, and Tyler Derr  
+*arXiv Preprint*, 2023</span>
 <!-- {: .notice} -->
 - <span style="font-size: 16px; font: bold">[Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switchboard Corpus](https://www.isca-archive.org/interspeech_2023/li23x_interspeech.pdf).<br> 
-**Zhaoqing Li**, Tianzi Wang, Jiajun Deng, Junhao Xu, Shoukang Hu, Xunying Liu  
+**Zhaoqing Li**, Tianzi Wang, Jiajun Deng, Junhao Xu, Shoukang Hu, and Xunying Liu  
 *INTERSPEECH*, 2023</span>
 <!-- {: .notice} -->
 

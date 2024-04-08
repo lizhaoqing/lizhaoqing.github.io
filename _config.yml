@@ -119,10 +119,13 @@ author:
       # url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/zhaoqingli/"
+      # url: "https://www.linkedin.com/in/zhaoqingli/"
     - label: "CV"
       icon: "fas fa-fw fa-link"
       # url: "/assets/cv/Li_CV.pdf"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-googlescholar"
+      url: "https://scholar.google.com/citations?user=93ihJjYAAAAJ&hl=en"
 
 # Site Footer
 footer:
