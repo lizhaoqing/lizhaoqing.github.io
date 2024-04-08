@@ -12,37 +12,45 @@ permalink: /
 
 <!-- # About Me -->
 <!-- <hr> -->
-I'm an incoming PhD student in the Computer Science at [Vanderbilt University](https://www.vanderbilt.edu), [NDS Lab](https://nds-vu.github.io), supervised by of Prof. [Tyler Derr](https://tylersnetwork.github.io). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1015/1351.htm) at Northwestern Polytechnical University, where I also obtained my bacholar's degree. I have broad research interests in machine learning and network science. My current studies focus on spectral clustering algorithms and spreading dynamics on networks. I am also passionate about using developed algorithms to solve practical problems (e.g., suppressing epidemic spreading processes).
+I am a second-year PhD student at the Chinese University of Hong Kong, supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1329/1369.htm) at Northwestern Polytechnical University, where I also obtained my bachelor's degree. My research interests lie in automatic speech recognition and machine leaning. I am currently focusing on developing lightweight and efficient deep learning systems.
 
 ## News
+- [12/2023](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>ICASSP 2024</i></font>
+- [07/2023](#link){: .btn .btn--info .btn--small} <font size=4>Passed the PhD Candidacy Examination!</font>
+- [05/2023](#link){: .btn .btn--info .btn--small} <font size=4>One Paper is accepted by <i>INTERSPEECH 2023</i></font>
+- [02/2022](#link){: .btn .btn--info .btn--small} <font size=4>Get admitted to the PhD program at the Chinese University of Hong Kong.</font>
+<!-- - [07/2021](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>Chaos, Solitons & Fractals</i></font>
 - [06/2021](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>New Journal of Physics</i></font>
-- [04/2021](#link){: .btn .btn--info .btn--small} <font size=4>Awarded Dean's Graduate Fellowship of Vanderbilt University.</font>
-- [03/2021](#link){: .btn .btn--info .btn--small} <font size=4>Finish master's degree and was awarded masters' "Outstanding Graduate" of NWPU.</font>
-- [02/2021](#link){: .btn .btn--info .btn--small} <font size=4>Get admitted to the PhD program at Vanderbilt University.</font>
+- [03/2021](#link){: .btn .btn--info .btn--small} <font size=4>Finish master's degree and was awarded master's "Outstanding Graduate" of NWPU.</font>
+- [02/2021](#link){: .btn .btn--info .btn--small} <font size=4>Get admitted to the PhD program at Vanderbilt University and awarded with Dean's Graduate Fellowship.</font>
 - [10/2020](#link){: .btn .btn--info .btn--small} <font size=4>Awarded China National Scholarship.</font>
-- [06/2020](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper regarding large graph clustering is accepted by <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (T-PAMI).</font>
+- [06/2020](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper regarding large graph clustering is accepted by <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (T-PAMI).</font> -->
 
 
 
 
-## Publications
+## Selected Publications
+\* Co-first Authors
+- "[A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/pdf/2308.16375.pdf)", Yi Zhang, Yuying Zhao, **Zhaoqing Li**, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S Yu, Tyler Derr  
+*Preprint*, 2023 
+{: .notice}
+- "[Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switchboard Corpus](https://www.isca-archive.org/interspeech_2023/li23x_interspeech.pdf)", **Zhaoqing Li**, Tianzi Wang, Jiajun Deng, Junhao Xu, Shoukang Hu, Xunying Liu  
+*INTERSPEECH*, 2023 
+{: .notice}
 - "[Contagion in simplicial complexes](http://arxiv.org/abs/2107.03411)", **Zhaoqing Li**, Zhenghong Deng, Zhen Han, Karin  Alfaro-Bittner, Baruch Barzel, and Stefano Boccaletti  
 *Chaos, Solitons and Fractals*, 2021
-{: .notice}
-- "[Delay-induced patterns in a reaction-diffusion system on complex networks](https://iopscience.iop.org/article/10.1088/1367-2630/ac0ebc/pdf)", Xinyu Wang, Zhao Song, **Zhaoqing Li**, Lili Chang, and Zhen Wang  
-*New Journal of Physics*, 2021 
 {: .notice}
 - "[Large graph clustering with simultaneous spectral embedding and discretization](https://ieeexplore.ieee.org/abstract/document/9117190)", Zhen Wang\*, **Zhaoqing Li**\*, Rong Wang, Feiping Nie, and Xuelong Li (* co-first authors)  
 *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2020 
 {: .notice}
 - "[Suppression of epidemic spreading process on multiplex networks via active immunization](https://aip.scitation.org/doi/abs/10.1063/1.5093047)", **Zhaoqing Li**, Peican Zhu, Dawei Zhao, Zhenghong Deng, and Zhen Wang  
-*Chaos: An Interdisciplinary Journal of Nonlinear Science*, vol. 29, no. 7, p. 073111, 2019 
+*Chaos: An Interdisciplinary Journal of Nonlinear Science*, 2019 
 {: .notice}
 
 ## Honors and Awards
-- Dean's Graduate Fellowship, Vanderbilt
-- China National Scholarship (0.2%), China
-- Master's Outstanding Graduate, NWPU
+- Dean's Graduate Fellowship, Vanderbilt University (2021)
+- Master's Outstanding Graduate, NWPU (2021)
+- China National Scholarship (2%), China (2019, 2020)
 
 <!-- <details><summary>Click to expand</summary>
 <ul> 
