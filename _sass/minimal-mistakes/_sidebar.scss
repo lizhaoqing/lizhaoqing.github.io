@@ -18,7 +18,7 @@
 
   @include breakpoint($large) {
     float: left;
-    width: calc(#{$right-sidebar-width-narrow} - 15em);
+    width: calc(#{$right-sidebar-width-narrow} - 1em);
     // opacity: 0.75;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
@@ -38,7 +38,7 @@
   }
 
   @include breakpoint($x-large) {
-    width: calc(#{$right-sidebar-width} - 15em);
+    width: calc(#{$right-sidebar-width} - 1em);
   }
 
   > * {
@@ -53,6 +53,10 @@
   h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
+  }
+
+  h3, h4 {
+    font-size: $type-size-5;
   }
 
   p,
