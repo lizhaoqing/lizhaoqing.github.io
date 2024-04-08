@@ -32,7 +32,8 @@ permalink: /
 
 #### Selected Publications
 \* <font size=4>Co-first Authors</font>
-- <span style="font-size: 16px; font: bold">[A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/pdf/2308.16375.pdf). 
+<b><font size=4>2023</font></b>
+- <span style="font-size: 16px; font: bold">[A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/pdf/2308.16375.pdf).<br> 
 Yi Zhang, Yuying Zhao, **Zhaoqing Li**, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S Yu, Tyler Derr  
 *Preprint*, 2023</span>
 <!-- {: .notice} -->
