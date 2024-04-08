@@ -32,21 +32,28 @@ permalink: /
 
 #### Selected Publications
 \* <font size=4>Co-first Authors</font>
+
 <b><font size=4>2023</font></b>
 - <span style="font-size: 16px; font: bold">[A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/pdf/2308.16375.pdf).<br> 
 Yi Zhang, Yuying Zhao, **Zhaoqing Li**, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S Yu, Tyler Derr  
 *Preprint*, 2023</span>
 <!-- {: .notice} -->
-- <span style="font-size: 16px; font: bold">"[Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switchboard Corpus](https://www.isca-archive.org/interspeech_2023/li23x_interspeech.pdf)", **Zhaoqing Li**, Tianzi Wang, Jiajun Deng, Junhao Xu, Shoukang Hu, Xunying Liu  
+- <span style="font-size: 16px; font: bold">[Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switchboard Corpus](https://www.isca-archive.org/interspeech_2023/li23x_interspeech.pdf).<br> 
+**Zhaoqing Li**, Tianzi Wang, Jiajun Deng, Junhao Xu, Shoukang Hu, Xunying Liu  
 *INTERSPEECH*, 2023</span>
 <!-- {: .notice} -->
-- <span style="font-size: 16px; font: bold">"[Contagion in simplicial complexes](http://arxiv.org/abs/2107.03411)", **Zhaoqing Li**, Zhenghong Deng, Zhen Han, Karin  Alfaro-Bittner, Baruch Barzel, and Stefano Boccaletti  
+
+<b><font size=4>Before 2023</font></b>
+- <span style="font-size: 16px; font: bold">[Contagion in simplicial complexes](http://arxiv.org/abs/2107.03411).<br>
+ **Zhaoqing Li**, Zhenghong Deng, Zhen Han, Karin  Alfaro-Bittner, Baruch Barzel, and Stefano Boccaletti  
 *Chaos, Solitons and Fractals*, 2021</span>
 <!-- {: .notice} -->
-- <span style="font-size: 16px; font: bold">"[Large graph clustering with simultaneous spectral embedding and discretization](https://ieeexplore.ieee.org/abstract/document/9117190)", Zhen Wang\*, **Zhaoqing Li**\*, Rong Wang, Feiping Nie, and Xuelong Li (* co-first authors)  
+- <span style="font-size: 16px; font: bold">[Large graph clustering with simultaneous spectral embedding and discretization](https://ieeexplore.ieee.org/abstract/document/9117190).<br>
+ Zhen Wang\*, **Zhaoqing Li**\*, Rong Wang, Feiping Nie, and Xuelong Li
 *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2020</span>
 <!-- {: .notice} -->
-- <span style="font-size: 16px; font: bold">"[Suppression of epidemic spreading process on multiplex networks via active immunization](https://aip.scitation.org/doi/abs/10.1063/1.5093047)", **Zhaoqing Li**, Peican Zhu, Dawei Zhao, Zhenghong Deng, and Zhen Wang  
+- <span style="font-size: 16px; font: bold">[Suppression of epidemic spreading process on multiplex networks via active immunization](https://aip.scitation.org/doi/abs/10.1063/1.5093047).<br>
+ **Zhaoqing Li**, Peican Zhu, Dawei Zhao, Zhenghong Deng, and Zhen Wang  
 *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 2019</span>
 <!-- {: .notice} -->
 
