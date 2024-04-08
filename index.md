@@ -49,9 +49,9 @@ permalink: /
 {: .notice}
 
 #### Honors and Awards
-- Dean's Graduate Fellowship, Vanderbilt University (2021)
-- Master's Outstanding Graduate, NWPU (2021)
-- China National Scholarship (2%), China (2019, 2020)
+- <font size=4>Dean's Graduate Fellowship, Vanderbilt University (2021)</font>
+- <font size=4>Master's Outstanding Graduate, NWPU (2021)</font>
+- <font size=4>China National Scholarship (2%), China (2019, 2020)</font>
 
 <!-- <details><summary>Click to expand</summary>
 <ul> 
