@@ -1,11 +1,11 @@
 ---
-layout: single
+# layout: single
 # classes: wide
 title: "About Me"
 author_profile: true
 last_modified_at: 2021-07-13T10:23:16-04:00
-toc: true
-toc_label: Content
+# toc: true
+# toc_label: Content
 permalink: /
 ---
 
