@@ -46,7 +46,7 @@ permalink: /
 <!-- {: .notice} -->
 - "[Suppression of epidemic spreading process on multiplex networks via active immunization](https://aip.scitation.org/doi/abs/10.1063/1.5093047)", **Zhaoqing Li**, Peican Zhu, Dawei Zhao, Zhenghong Deng, and Zhen Wang  
 *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 2019 
-{: .notice}
+<!-- {: .notice} -->
 
 #### Honors and Awards
 - <font size=4>Dean's Graduate Fellowship, Vanderbilt University (2021)</font>
