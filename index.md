@@ -12,9 +12,9 @@ permalink: /
 
 <!-- # About Me -->
 <!-- <hr> -->
-<span style="font-size: 16px; font: bold">I am a second-year PhD student at the Chinese University of Hong Kong, supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1329/1369.htm) at Northwestern Polytechnical University, where I also obtained my bachelor's degree. My research interests lie in automatic speech recognition and machine leaning. I am currently focusing on developing lightweight and efficient deep learning systems.</span><br>
+<font size=4>I am a second-year PhD student at the Chinese University of Hong Kong, supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1329/1369.htm) at Northwestern Polytechnical University, where I also obtained my bachelor's degree. My research interests lie in automatic speech recognition and machine leaning. I am currently focusing on developing lightweight and efficient deep learning systems.</font>
 
-## News
+#### News
 - [12/2023](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>ICASSP 2024</i></font>
 - [07/2023](#link){: .btn .btn--info .btn--small} <font size=4>Passed the PhD Candidacy Examination!</font>
 - [05/2023](#link){: .btn .btn--info .btn--small} <font size=4>One Paper is accepted by <i>INTERSPEECH 2023</i></font>
@@ -30,7 +30,7 @@ permalink: /
 
 
 
-## Selected Publications
+#### Selected Publications
 \* Co-first Authors
 - "[A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/pdf/2308.16375.pdf)", Yi Zhang, Yuying Zhao, **Zhaoqing Li**, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S Yu, Tyler Derr  
 *Preprint*, 2023 
@@ -48,7 +48,7 @@ permalink: /
 *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 2019 
 {: .notice}
 
-## Honors and Awards
+#### Honors and Awards
 - Dean's Graduate Fellowship, Vanderbilt University (2021)
 - Master's Outstanding Graduate, NWPU (2021)
 - China National Scholarship (2%), China (2019, 2020)
