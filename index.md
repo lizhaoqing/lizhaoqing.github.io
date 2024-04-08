@@ -1,21 +1,18 @@
 ---
-# layout: single
-# classes: wide
+layout: single
+classes: wide
 title: "About Me"
 author_profile: true
 last_modified_at: 2021-07-13T10:23:16-04:00
 # toc: true
 # toc_label: Content
 permalink: /
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 
 <!-- # About Me -->
 <!-- <hr> -->
-I am a second-year PhD student at the Chinese University of Hong Kong, supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1329/1369.htm) at Northwestern Polytechnical University, where I also obtained my bachelor's degree. My research interests lie in automatic speech recognition and machine leaning. I am currently focusing on developing lightweight and efficient deep learning systems.
+<span style="font-size: 16px; font: bold">I am a second-year PhD student at the Chinese University of Hong Kong, supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1329/1369.htm) at Northwestern Polytechnical University, where I also obtained my bachelor's degree. My research interests lie in automatic speech recognition and machine leaning. I am currently focusing on developing lightweight and efficient deep learning systems.</span><br>
 
 ## News
 - [12/2023](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>ICASSP 2024</i></font>
