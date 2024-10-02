@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title: "About Me"
 author_profile: true
-last_modified_at: 2024-04-09T00:47:16-04:00
+last_modified_at: 2024-10-02T00:47:16-04:00
 # toc: true
 # toc_label: Content
 permalink: /
@@ -12,9 +12,13 @@ permalink: /
 
 <!-- # About Me -->
 <!-- <hr> -->
-<span style="font-size: 20px; font: bold">I am a second-year PhD student at the Chinese University of Hong Kong, supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1329/1369.htm) at Northwestern Polytechnical University, where I also obtained my bachelor's degree. My research interests lie in automatic speech recognition and machine leaning. I am currently focusing on developing lightweight and efficient deep learning systems.</span><br>
+<span style="font-size: 20px; font: bold">I am a third-year PhD student at the Chinese University of Hong Kong, supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1329/1369.htm) at Northwestern Polytechnical University, where I also obtained my bachelor's degree. My research interests lie in automatic speech recognition, machine leaning, and model compression. I am currently focusing on developing lightweight and efficient deep learning systems.</span><br>
 
 #### News
+- [08/2024](#link){: .btn .btn--info .btn--small} <font size=4>Our survey on "[privacy in GNN](https://arxiv.org/abs/2308.16375)" is accepted by <i>IEEE-TKDE</i>.</font>
+- [07/2024](#link){: .btn .btn--info .btn--small} <font size=4>Joined Daniel Povey's team @ Xiaomi as a research intern. </font>
+- [07/2024](#link){: .btn .btn--info .btn--small} <font size=4>Passed the PhD Oral Defense! </font>
+- [06/2024](#link){: .btn .btn--info .btn--small} <font size=4>Two papers are accepted by <i>Interspeech 2024</i>.</font>
 - [12/2023](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>ICASSP 2024</i>.</font>
 - [07/2023](#link){: .btn .btn--info .btn--small} <font size=4>Passed the PhD Candidacy Examination!</font>
 - [05/2023](#link){: .btn .btn--info .btn--small} <font size=4>One Paper is accepted by <i>INTERSPEECH 2023</i>.</font>
@@ -33,11 +37,17 @@ permalink: /
 #### Selected Publications
 \* <font size=4>Co-first Authors</font>
 
-<b><font size=4>2023</font></b>
+<b><font size=4>2024</font></b>
 - <span style="font-size: 16px; font: bold">[A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/pdf/2308.16375.pdf).<br> 
-Yi Zhang, Yuying Zhao, **Zhaoqing Li**, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S Yu, and Tyler Derr  
-*arXiv Preprint*, 2023</span>
+Yi Zhang\*, Yuying Zhao\*, **Zhaoqing Li**, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S Yu, and Tyler Derr  
+*IEEE-TKDE*, 2024</span>
 <!-- {: .notice} -->
+- <span style="font-size: 16px; font: bold">[One-pass Multiple Conformer and Foundation Speech Systems Compression and Quantization Using An All-in-one Neural Model](https://arxiv.org/pdf/2406.10160).<br> 
+**Zhaoqing Li\***, Haoning Xu\*, Tianzi Wang, Shoukang Hu, Zengrui Jin, Shujie Hu, Jiajun Deng, Mingyu Cui, Mengzhe Geng, Xunying Liu  
+*INTERSPEECH*, 2024</span>
+<!-- {: .notice} -->
+
+<b><font size=4>2023</font></b>
 - <span style="font-size: 16px; font: bold">[Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switchboard Corpus](https://www.isca-archive.org/interspeech_2023/li23x_interspeech.pdf).<br> 
 **Zhaoqing Li**, Tianzi Wang, Jiajun Deng, Junhao Xu, Shoukang Hu, and Xunying Liu  
 *INTERSPEECH*, 2023</span>
@@ -50,7 +60,7 @@ Yi Zhang, Yuying Zhao, **Zhaoqing Li**, Xueqi Cheng, Yu Wang, Olivera Kotevska, 
 <!-- {: .notice} -->
 - <span style="font-size: 16px; font: bold">[Large graph clustering with simultaneous spectral embedding and discretization](https://ieeexplore.ieee.org/abstract/document/9117190).<br>
  Zhen Wang\*, **Zhaoqing Li**\*, Rong Wang, Feiping Nie, and Xuelong Li<br>
-*IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2020</span>
+*IEEE-TPAMI*, 2020</span>
 <!-- {: .notice} -->
 - <span style="font-size: 16px; font: bold">[Suppression of epidemic spreading process on multiplex networks via active immunization](https://aip.scitation.org/doi/abs/10.1063/1.5093047).<br>
  **Zhaoqing Li**, Peican Zhu, Dawei Zhao, Zhenghong Deng, and Zhen Wang  
