@@ -43,8 +43,7 @@ permalink: /
 **Zhaoqing Li**, Haoning Xu, Zengrui Jin, Lingwei Meng, Tianzi Wang, Huimeng Wang, Youjun Chen, Mingyu Cui, Shujie Hu, Xunying Liu  
 *Interspeech*, 2025</span>
 <!-- {: .notice} -->
-- <span style="font-size: 16px; font: bold">[Unfolding A Few Structures for The Many: Memory-Efficient Compression of Conformer and Speech Foundation Models
-](https://arxiv.org/pdf/2505.21237v1).<br> 
+- <span style="font-size: 16px; font: bold">[Unfolding A Few Structures for The Many: Memory-Efficient Compression of Conformer and Speech Foundation Models](https://arxiv.org/pdf/2505.21237v1).<br> 
 **Zhaoqing Li**, Haoning Xu, Xurong Xie, Zengrui Jin, Tianzi Wang, Xunying Liu  
 *Interspeech*, 2025</span>
 
