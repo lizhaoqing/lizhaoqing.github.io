@@ -15,6 +15,7 @@ permalink: /
 <span style="font-size: 20px; font: bold">I am a third-year PhD student at the Chinese University of Hong Kong, supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1329/1369.htm) at Northwestern Polytechnical University, where I also obtained my bachelor's degree. My research interests lie in automatic speech recognition, machine leaning, and model compression. I am currently focusing on developing lightweight and efficient deep learning systems.</span><br>
 
 #### News
+- [05/2025](#link){: .btn .btn--info .btn--small} <font size=4>Two papers are accepted by <i>Interspeech 2025</i>, including two first author papers.</font>
 - [08/2024](#link){: .btn .btn--info .btn--small} <font size=4>Our survey on <span style="font-size: 18px; font: bold">"privacy in GNN"</span> is accepted by <i>IEEE-TKDE</i>.</font>
 - [07/2024](#link){: .btn .btn--info .btn--small} <font size=4>Joined Daniel Povey's team @ Xiaomi as a research intern. </font>
 - [07/2024](#link){: .btn .btn--info .btn--small} <font size=4>Passed the PhD Oral Defense! </font>
@@ -22,7 +23,7 @@ permalink: /
 - [12/2023](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>ICASSP 2024</i>.</font>
 - [07/2023](#link){: .btn .btn--info .btn--small} <font size=4>Passed the PhD Candidacy Examination!</font>
 - [05/2023](#link){: .btn .btn--info .btn--small} <font size=4>One Paper is accepted by <i>INTERSPEECH 2023</i>.</font>
-- [02/2022](#link){: .btn .btn--info .btn--small} <font size=4>Get admitted to the PhD program of the Chinese University of Hong Kong.</font>
+<!-- - [02/2022](#link){: .btn .btn--info .btn--small} <font size=4>Get admitted to the PhD program of the Chinese University of Hong Kong.</font> -->
 
 <!-- - [07/2021](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>Chaos, Solitons & Fractals</i></font>
 - [06/2021](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>New Journal of Physics</i></font>
@@ -36,6 +37,16 @@ permalink: /
 
 #### Selected Publications
 \* <font size=4>Co-first Authors</font>
+
+<b><font size=4>2025</font></b>
+- <span style="font-size: 16px; font: bold">[Towards One-bit ASR: Extremely Low-bit Conformer Quantization Using Co-training and Stochastic Precision](https://arxiv.org/pdf/2505.21245v1).<br> 
+**Zhaoqing Li**, Haoning Xu, Zengrui Jin, Lingwei Meng, Tianzi Wang, Huimeng Wang, Youjun Chen, Mingyu Cui, Shujie Hu, Xunying Liu  
+*IEEE-TKDE*, 2024</span>
+<!-- {: .notice} -->
+- <span style="font-size: 16px; font: bold">[Unfolding A Few Structures for The Many: Memory-Efficient Compression of Conformer and Speech Foundation Models
+](https://arxiv.org/pdf/2505.21237v1).<br> 
+**Zhaoqing Li**, Haoning Xu, Xurong Xie, Zengrui Jin, Tianzi Wang, Xunying Liu  
+*INTERSPEECH*, 2024</span>
 
 <b><font size=4>2024</font></b>
 - <span style="font-size: 16px; font: bold">[A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/pdf/2308.16375.pdf).<br> 
