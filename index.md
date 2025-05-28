@@ -41,12 +41,12 @@ permalink: /
 <b><font size=4>2025</font></b>
 - <span style="font-size: 16px; font: bold">[Towards One-bit ASR: Extremely Low-bit Conformer Quantization Using Co-training and Stochastic Precision](https://arxiv.org/pdf/2505.21245v1).<br> 
 **Zhaoqing Li**, Haoning Xu, Zengrui Jin, Lingwei Meng, Tianzi Wang, Huimeng Wang, Youjun Chen, Mingyu Cui, Shujie Hu, Xunying Liu  
-*IEEE-TKDE*, 2024</span>
+*INTERSPEECH*, 2025</span>
 <!-- {: .notice} -->
 - <span style="font-size: 16px; font: bold">[Unfolding A Few Structures for The Many: Memory-Efficient Compression of Conformer and Speech Foundation Models
 ](https://arxiv.org/pdf/2505.21237v1).<br> 
 **Zhaoqing Li**, Haoning Xu, Xurong Xie, Zengrui Jin, Tianzi Wang, Xunying Liu  
-*INTERSPEECH*, 2024</span>
+*INTERSPEECH*, 2025</span>
 
 <b><font size=4>2024</font></b>
 - <span style="font-size: 16px; font: bold">[A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/pdf/2308.16375.pdf).<br> 
