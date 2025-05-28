@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title: "About Me"
 author_profile: true
-last_modified_at: 2024-10-02T00:47:16-04:00
+last_modified_at: 2025-5-28T00:47:16-04:00
 # toc: true
 # toc_label: Content
 permalink: /
