@@ -18,11 +18,11 @@ permalink: /
 - [05/2025](#link){: .btn .btn--info .btn--small} <font size=4>Four papers are accepted by <i>Interspeech 2025</i>, including two first author papers.</font>
 - [08/2024](#link){: .btn .btn--info .btn--small} <font size=4>Our survey on <span style="font-size: 18px; font: bold">"privacy in GNN"</span> is accepted by <i>IEEE-TKDE</i>.</font>
 - [07/2024](#link){: .btn .btn--info .btn--small} <font size=4>Joined Daniel Povey's team @ Xiaomi as a research intern. </font>
-- [07/2024](#link){: .btn .btn--info .btn--small} <font size=4>Passed the PhD Oral Defense! </font>
+- [07/2024](#link){: .btn .btn--info .btn--small} <font size=4>Passed the PhD candidate oral defense! </font>
 - [06/2024](#link){: .btn .btn--info .btn--small} <font size=4>Two papers are accepted by <i>Interspeech 2024</i>.</font>
 - [12/2023](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>ICASSP 2024</i>.</font>
 - [07/2023](#link){: .btn .btn--info .btn--small} <font size=4>Passed the PhD Candidacy Examination!</font>
-- [05/2023](#link){: .btn .btn--info .btn--small} <font size=4>One Paper is accepted by <i>INTERSPEECH 2023</i>.</font>
+- [05/2023](#link){: .btn .btn--info .btn--small} <font size=4>One Paper is accepted by <i>Interspeech 2023</i>.</font>
 <!-- - [02/2022](#link){: .btn .btn--info .btn--small} <font size=4>Get admitted to the PhD program of the Chinese University of Hong Kong.</font> -->
 
 <!-- - [07/2021](#link){: .btn .btn--info .btn--small} <font size=4>Our Paper is accepted by <i>Chaos, Solitons & Fractals</i></font>
@@ -41,12 +41,12 @@ permalink: /
 <b><font size=4>2025</font></b>
 - <span style="font-size: 16px; font: bold">[Towards One-bit ASR: Extremely Low-bit Conformer Quantization Using Co-training and Stochastic Precision](https://arxiv.org/pdf/2505.21245v1).<br> 
 **Zhaoqing Li**, Haoning Xu, Zengrui Jin, Lingwei Meng, Tianzi Wang, Huimeng Wang, Youjun Chen, Mingyu Cui, Shujie Hu, Xunying Liu  
-*INTERSPEECH*, 2025</span>
+*Interspeech*, 2025</span>
 <!-- {: .notice} -->
 - <span style="font-size: 16px; font: bold">[Unfolding A Few Structures for The Many: Memory-Efficient Compression of Conformer and Speech Foundation Models
 ](https://arxiv.org/pdf/2505.21237v1).<br> 
 **Zhaoqing Li**, Haoning Xu, Xurong Xie, Zengrui Jin, Tianzi Wang, Xunying Liu  
-*INTERSPEECH*, 2025</span>
+*Interspeech*, 2025</span>
 
 <b><font size=4>2024</font></b>
 - <span style="font-size: 16px; font: bold">[A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/pdf/2308.16375.pdf).<br> 
@@ -55,13 +55,13 @@ Yi Zhang\*, Yuying Zhao\*, **Zhaoqing Li**, Xueqi Cheng, Yu Wang, Olivera Kotevs
 <!-- {: .notice} -->
 - <span style="font-size: 16px; font: bold">[One-pass Multiple Conformer and Foundation Speech Systems Compression and Quantization Using An All-in-one Neural Model](https://arxiv.org/pdf/2406.10160).<br> 
 **Zhaoqing Li\***, Haoning Xu\*, Tianzi Wang, Shoukang Hu, Zengrui Jin, Shujie Hu, Jiajun Deng, Mingyu Cui, Mengzhe Geng, Xunying Liu  
-*INTERSPEECH*, 2024</span>
+*Interspeech*, 2024</span>
 <!-- {: .notice} -->
 
 <b><font size=4>2023</font></b>
-- <span style="font-size: 16px; font: bold">[Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switchboard Corpus](https://www.isca-archive.org/interspeech_2023/li23x_interspeech.pdf).<br> 
+- <span style="font-size: 16px; font: bold">[Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switchboard Corpus](https://www.isca-archive.org/Interspeech_2023/li23x_Interspeech.pdf).<br> 
 **Zhaoqing Li**, Tianzi Wang, Jiajun Deng, Junhao Xu, Shoukang Hu, and Xunying Liu  
-*INTERSPEECH*, 2023</span>
+*Interspeech*, 2023</span>
 <!-- {: .notice} -->
 
 <b><font size=4>Before 2023</font></b>
