@@ -15,6 +15,7 @@ permalink: /
 <span style="font-size: 20px; font: bold">I am a third-year PhD student at the Chinese University of Hong Kong, supervised by Prof. [Xunying Liu](https://www1.se.cuhk.edu.hk/~xyliu/). Before that, I finished my master's degree under the supervision of Prof. [Zhen Wang](http://iopen.nwpu.edu.cn/info/1329/1369.htm) at Northwestern Polytechnical University, where I also obtained my bachelor's degree. My research interests lie in automatic speech recognition, machine leaning, and model compression. I am currently focusing on developing lightweight and efficient deep learning systems.</span><br>
 
 #### News
+- [06/2025](#link){: .btn .btn--info .btn--small} <font size=4>Received <i>ISCA Interspeech 2025 Travel Grants</i>.</font>
 - [05/2025](#link){: .btn .btn--info .btn--small} <font size=4>Four papers are accepted by <i>Interspeech 2025</i>, including two first author papers.</font>
 - [08/2024](#link){: .btn .btn--info .btn--small} <font size=4>Our survey on <span style="font-size: 18px; font: bold">"privacy in GNN"</span> is accepted by <i>IEEE-TKDE</i>.</font>
 - [07/2024](#link){: .btn .btn--info .btn--small} <font size=4>Joined Daniel Povey's team @ Xiaomi as a research intern. </font>
@@ -91,6 +92,7 @@ Yi Zhang\*, Yuying Zhao\*, **Zhaoqing Li**, Xueqi Cheng, Yu Wang, Olivera Kotevs
 <!-- {: .notice} -->
 
 #### Honors and Awards
+- <font size=4>ISCA Interspeech 2025 Travel Grants Award (2025)</font>
 - <font size=4>Dean's Graduate Fellowship, Vanderbilt University (2021)</font>
 - <font size=4>Master's Outstanding Graduate, NWPU (2021)</font>
 - <font size=4>China National Scholarship (2%), China (2019, 2020)</font>
