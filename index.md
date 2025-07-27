@@ -46,6 +46,19 @@ permalink: /
 - <span style="font-size: 16px; font: bold">[Unfolding A Few Structures for The Many: Memory-Efficient Compression of Conformer and Speech Foundation Models](https://arxiv.org/pdf/2505.21237v1).<br> 
 **Zhaoqing Li**, Haoning Xu, Xurong Xie, Zengrui Jin, Tianzi Wang, Xunying Liu  
 *Interspeech*, 2025</span>
+<!-- {: .notice} -->
+- <span style="font-size: 16px; font: bold">[Effective and Efficient One-pass Compression of Speech Foundation Models Using Sparsity-aware Self-pinching Gates](https://arxiv.org/pdf/2505.22608?).<br> 
+Haoning Xu, **Zhaoqing Li**, Youjun Chen, Huimeng Wang, Guinan Li, Mengzhe Geng, Chengxi Deng, Xunying Liu  
+*ICASSP*, 2025</span>
+<!-- {: .notice} -->
+- <span style="font-size: 16px; font: bold">[Effective and efficient mixed precision quantization of speech foundation models](https://www.researchgate.net/profile/Haoning-Xu/publication/387797829_Effective_and_Efficient_Mixed_Precision_Quantization_of_Speech_Foundation_Models/links/678f3cbf95e02f182ea832c1/Effective-and-Efficient-Mixed-Precision-Quantization-of-Speech-Foundation-Models.pdf).<br> 
+Haoning Xu, **Zhaoqing Li**, Zengrui Jin, Huimeng Wang, Youjun Chen, Guinan Li, Mengzhe Geng, Shujie Hu, Jiajun Deng, Xunying Liu  
+*ICASSP*, 2025</span>
+<!-- {: .notice} -->
+- <span style="font-size: 16px; font: bold">[ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching](https://arxiv.org/pdf/2506.13053).<br> 
+Han Zhu, Wei Kang, Zengwei Yao, Liyong Guo, Fangjun Kuang, **Zhaoqing Li**, Weiji Zhuang, Long Lin, Daniel Povey  
+*preprint*, 2025</span>
+
 
 <b><font size=4>2024</font></b>
 - <span style="font-size: 16px; font: bold">[A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/pdf/2308.16375.pdf).<br> 
