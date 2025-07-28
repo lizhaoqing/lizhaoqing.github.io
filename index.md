@@ -50,7 +50,7 @@ permalink: /
 <!-- {: .notice} -->
 - <span style="font-size: 16px; font: bold">[Effective and Efficient One-pass Compression of Speech Foundation Models Using Sparsity-aware Self-pinching Gates](https://arxiv.org/pdf/2505.22608?).<br> 
 Haoning Xu, **Zhaoqing Li**, Youjun Chen, Huimeng Wang, Guinan Li, Mengzhe Geng, Chengxi Deng, Xunying Liu  
-*ICASSP*, 2025</span>
+*Interspeech*, 2025</span>
 <!-- {: .notice} -->
 - <span style="font-size: 16px; font: bold">[Effective and efficient mixed precision quantization of speech foundation models](https://www.researchgate.net/profile/Haoning-Xu/publication/387797829_Effective_and_Efficient_Mixed_Precision_Quantization_of_Speech_Foundation_Models/links/678f3cbf95e02f182ea832c1/Effective-and-Efficient-Mixed-Precision-Quantization-of-Speech-Foundation-Models.pdf).<br> 
 Haoning Xu, **Zhaoqing Li**, Zengrui Jin, Huimeng Wang, Youjun Chen, Guinan Li, Mengzhe Geng, Shujie Hu, Jiajun Deng, Xunying Liu  
